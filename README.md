@@ -1,1 +1,1 @@
-# DL-P7
+# Neural_Network_from_Scratch_using_PyTorch
